@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Dong Kaiyan / Site Title"
 title_separator          : "-"
-name                     : &name "Dong Kaiyan✨董凯燕"
+name                     : &name "Dong Kaiyan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kellydong57.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
