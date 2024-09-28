@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dong Kaiyan / Site Title"
+title                    : "Dong Kaiyan's homepage"
 title_separator          : "-"
 name                     : &name "Dong Kaiyan"
 description              : &description "personal description"
