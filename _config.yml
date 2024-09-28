@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dong Kaiyan's homepage"
+title                    : "Dong Kaiyan's Homepage"
 title_separator          : "-"
 name                     : &name "Dong Kaiyan"
 description              : &description "personal description"
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shanghai, China"
+  University       : "Fudan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dongkaiyan0902@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
